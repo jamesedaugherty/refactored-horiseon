@@ -14,4 +14,6 @@ This project had a few goals to satisy which are as follows;
 
 I made a lot of mistakes and I'm excited to look back at this a year from now and see my progress as a developer.
 
+I couldn't figure out how to adjust the capitalization of the assets folder. I had to keep it as "Assets".
+
 Here is the URL: https://jamesedaugherty.github.io/refactored-horiseon/
